@@ -1,0 +1,18 @@
+.main-title {
+    color: #fff;
+}
+
+#search {
+    width: 600px;
+}
+
+#submit-button {
+    height: 35px;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+#search-form {
+    margin-bottom: 50px;
+}
+
